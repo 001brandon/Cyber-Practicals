@@ -1,7 +1,7 @@
 ### Practical Premise
-The point of this practical assignment is all about logging. We need to set up a LAMP server and central logging for
-that server in order to monitor it for malicious activity. We need two virtual machines to do this running ubuntu, one called myvm and another Drupal
-We set up an Apache2 webserver and use MYSQL as it's database and Drupal as the user interactive webpage
+The point of this practical assignment is all about logging. I needed to set up a LAMP server and central logging for
+that server in order to monitor it for malicious activity. I need two virtual machines to do this running ubuntu, one called myvm and another Drupal.
+I set up an Apache2 webserver and use MYSQL as it's database and Drupal as the user interactive webpage
 sending the logs to a second Virtual Machine to monitor them and flag any malicious activity.
 
 ## Execution
